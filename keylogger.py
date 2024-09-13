@@ -8,8 +8,8 @@ import os
 import threading
 
 # Configurações do cliente
-SERVER_IP = '192.168.1.100'  # Substitua pelo IP do servidor
-SERVER_PORT = 65432          # Porta do servidor
+SERVER_IP = '10.76.31.124'  # Substitua pelo IP do servidor
+SERVER_PORT = 6969         # Porta do servidor
 
 # Define o caminho do arquivo de log de acordo com o sistema operacional
 if platform.system() == "Windows":
